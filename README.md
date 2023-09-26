@@ -1,1 +1,1 @@
-Project for [Learn Next.js](https://nextjs.org/learn).
+Awesome project for [Learn Next.js](https://nextjs.org/learn).
